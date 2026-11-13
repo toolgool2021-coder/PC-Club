@@ -16,7 +16,7 @@ const emails = [
   "toolgool2021@gmail.com",
   "toolgool2025@gmail.com",
   "kkngstendoff2@gmail.com",
-  "bahtiarysmaШylov@gmail.com"
+  "bahtiarysmaiylov@gmail.com"
 ];
 
 const phrases = [
