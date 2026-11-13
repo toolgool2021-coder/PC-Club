@@ -7,7 +7,8 @@ const links = [
   ["WhatsApp Web", "https://web.whatsapp.com/"],
   ["3D Aim Trainer", "https://www.3daimtrainer.com/"],
   ["Chess.com", "https://www.chess.com/"],
-  ["Pony Town", "https://pony.town/"]
+  ["Pony Town", "https://pony.town/"],
+  ["ChatGPT", "https://chatgpt.com/"]
 ];
 
 const emails = [
@@ -15,7 +16,7 @@ const emails = [
   "toolgool2021@gmail.com",
   "toolgool2025@gmail.com",
   "kkngstendoff2@gmail.com",
-  "kkngstendoff2@gmail.com"
+  "bahtiarysmaШylov@gmail.com"
 ];
 
 const phrases = [
