@@ -29,5 +29,15 @@ const phrases = [
   "rat = max you team skill xd",
   "And is that all?",
   "Your maximum is killing a rat.",
-  "Website:tlmoomoo.duckdns.org"
+  "Website:tlmoomoo.duckdns.org",
+  "Pro player? Keep dreaming",
+  "Even bots play better",
+  "Cheats can't download brains.",
+  "Even with cheats, you're trash.",
+  "Pro in your own min",
+  "Fake pro, real loser",
+  "Pathetic cheater",
+  "Cheater and loser",
+  "Cheat and still lose",
+  "Trash even with cheats."
 ];
