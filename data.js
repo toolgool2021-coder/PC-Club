@@ -21,6 +21,7 @@ const emails = [
 
 const phrases = [
   "cheat active | by toolgool",
+  "More talk than action.",
   "noob",
   "Loser",
   "Cry baby",
